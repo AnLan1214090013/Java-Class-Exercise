@@ -1,8 +1,8 @@
 # Java-Class-Exercise
-##Java网页题答案
+## Java网页题答案
 
 1021
-···
+```
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
@@ -73,8 +73,9 @@ import java.util.Scanner;
         }
         public Data(){}
 }
-···
+```
 1035
+```
 import java.util.Scanner;
 
 public class Main {
@@ -99,7 +100,7 @@ public class Main {
         sc.close();
         }
 }
-
+```
 1016
 import java.util.Scanner;
 
@@ -138,8 +139,9 @@ public class Main {
 
 
 }
-
+```
 1019
+```
 import java.util.Scanner;
 public class Main {
 public static void main(String[] args) {
@@ -168,8 +170,9 @@ public static boolean isPrime(int i) {
     return flag;
 }
 }
-
+```
 1036
+```
 import java.io.IOException;
 import java.util.Scanner;
 
