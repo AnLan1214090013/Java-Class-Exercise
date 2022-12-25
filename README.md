@@ -102,6 +102,7 @@ public class Main {
 }
 ```
 1016
+```
 import java.util.Scanner;
 
 public class Main {
@@ -217,8 +218,9 @@ public class Main {
         return ans;
     }
 }
-
+```
 1023
+```
 import java.math.BigInteger;
 import java.util.Scanner;
 
@@ -261,8 +263,9 @@ public class Main {
 
     }
 }
-
+```
 1017
+```
 import java.util.Scanner;
 
 public class Main {
@@ -302,8 +305,9 @@ public class Main {
 
 
 }
-
+```
 1014
+```
 import java.util.Scanner;
 
 public class Main {
@@ -337,8 +341,9 @@ public class Main {
 
 
 }
-
+```
 1008
+```
 import java.util.Scanner;
 
 public class Main {
@@ -379,8 +384,9 @@ public class Main {
 
 
 }
-
+```
 1002
+```
 import java.util.Scanner;
 
 public class Main {
@@ -443,8 +449,9 @@ public class Main {
 
 
 }
-
+```
 1007
+```
 import java.util.Scanner;
 public class Main {
     
@@ -493,8 +500,9 @@ public class Main {
 
     
 }
-
+```
 1000
+```
 import java.math.BigDecimal;
 import java.util.*;
 public class Main{     
@@ -515,8 +523,9 @@ public class Main{
         cin.close();  
     }  
 }
-
+```
 1024
+```
 import java.math.BigDecimal;    
 import java.util.*;    
     
@@ -540,8 +549,9 @@ public class Main {
         }
     } 
 }
-
+```
 1025
+```
 import java.util.Scanner;
 
 public class Main {
@@ -556,3 +566,4 @@ public class Main {
 
     }
 }
+```
