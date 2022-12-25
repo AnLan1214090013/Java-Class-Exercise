@@ -2,7 +2,7 @@
 Java网页题答案
 
 1021
-
+···
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
@@ -73,7 +73,7 @@ import java.util.Scanner;
         }
         public Data(){}
 }
-
+···
 1035
 import java.util.Scanner;
 
